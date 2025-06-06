@@ -36,4 +36,4 @@ def exibirGrafico():
     plt.grid(True)
     plt.show()
 
-    plt.savefig('chart2.png')
+    plt.savefig('chart2.png'),l
